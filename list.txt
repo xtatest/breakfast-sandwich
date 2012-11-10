@@ -3,3 +3,4 @@
 * english muffin
 * eggs
 * sausage
+* cheese
