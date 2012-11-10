@@ -4,4 +4,4 @@
 * eggs
 * sausage
 * cheese
-* ketchup 
+* ketchup / hotsauce
